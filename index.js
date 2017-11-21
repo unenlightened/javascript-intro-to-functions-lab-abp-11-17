@@ -27,3 +27,4 @@ function sayHiToGrandma(string){
     default:
       return "You were ignored. The silent treatment. Or she seriously didn't notice you...";
   }
+}
