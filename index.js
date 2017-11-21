@@ -25,5 +25,5 @@ function sayHiToGrandma(string){
     case string === "I love you, Grandma.":
       return "I love you, too.";
     default:
-      return console.log("You were ignored. The silent treatment. Or she seriously didn't notice you...");
+      return "You were ignored. The silent treatment. Or she seriously didn't notice you...";
   }
