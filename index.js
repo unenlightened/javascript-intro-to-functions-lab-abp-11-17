@@ -20,7 +20,7 @@ function sayHiToGrandma(string){
   switch(true){
     case string === whisper(string):                    //used === string.toLowerCase() originally. this is better
       return "I can't hear you!";
-    case string === shout(string):
+    case string === shout(string):                      // same as above
       return "YES INDEED!";
     case string === "I love you, Grandma.":
       return "I love you, too.";
